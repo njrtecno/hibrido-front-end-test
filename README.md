@@ -5,9 +5,13 @@
 //// O site escolhido, foi o site desenvolvido pela Híbrido https://www.printset.com.br/
 
 //// O teste tem o arquivo index.html, e as seguintes pastas:
+
 ////// less, com os arquivos style.less e reset.less
+
 ////// js, com os arquivos functions.js e slick.js (referente ao slick slider usado na home)
+
 ////// css, com o arquivo compilado style.css, além dos arquivos slick.css, slick-theme.css, ajax-loader.gif e a pasta fonts onde dentro temos as fonts do slick.
+
 ////// svg, com icones das redes sociais
 
 
