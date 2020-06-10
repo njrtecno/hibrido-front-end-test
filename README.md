@@ -16,5 +16,7 @@
 
 
 //// Além dos citados acima utilizei os arquivos remotos:
+
 ////// font, montserrat do google fonts e a luma-icons do online web fonts
+
 ////// js, foi usadao a livraria do jQuery 2.2
