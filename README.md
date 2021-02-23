@@ -1,4 +1,32 @@
-//Teste de Front End da Híbrido
+// English
+// Front End Test
+
+//// Choose a site indicated by Hibrido or myself, and mirror the home page with html, less and js.
+
+//// The site chosen was the site developed by Hbridido https://www.printset.com.br/
+
+//// The test has the file index.html, and the following folders:
+
+////// less, with the files style.less and reset.less
+
+////// js, with the files functions.js and slick.js (referring to the slick slider used at home)
+
+////// css, with the compiled style.css file, in addition to the slick.css, slick-theme.css, ajax-loader.gif files and the fonts folder where we have the slick fonts.
+
+////// svg, with social media icons
+
+//// In addition to those mentioned above, I used remote files:
+
+////// font, montserrat from google fonts and luma-icons from online web fonts
+
+////// js, the jQuery 2.2 bookstore was used
+
+
+
+
+///////Português
+
+//Teste de Front End
 
 //// Escolher um site indicado pela Híbrido ou por mim mesmo, e espelhar a home page com html, less e js.
 
